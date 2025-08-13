@@ -7,7 +7,7 @@ I'm a **3rd-year B.Tech Computer Science student** at SRM University, specializi
 - 🔭 Currently working on **AI & ML Projects**
 - 🌱 Exploring **Cloud Computing** and **Power BI**
 - 💬 Ask me about **Web Development** and **Data Analysis**
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- 📫 Reach me at: [nigampratham2005@gmail.com](mailto:nigampratham2005@gmail.com)
 - ⚡ Fun fact: I love **solving real-world problems** through code.
 
 ---
@@ -59,8 +59,7 @@ I'm a **3rd-year B.Tech Computer Science student** at SRM University, specializi
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pratham-nigam/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/savagetk.03/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat)](https://your-portfolio-link.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/iamprathxm17/)
 
 ---
 
