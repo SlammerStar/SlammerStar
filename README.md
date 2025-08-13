@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Pratham Nigam
 
-## 💻 About Me
+## 💼 About Me
 
-I'm a **3rd-year B.Tech Computer Science student** at SRM Institute of Science and Technology, specializing in **Data Science**. Passionate about building impactful projects and continuously learning new technologies.
+I'm a **3rd-year B.Tech Computer Science student** at SRM University, specializing in **Data Science**. Passionate about building impactful projects and continuously learning new technologies.
 
 - 🔭 Currently working on **AI & ML Projects**
 - 🌱 Exploring **Cloud Computing** and **Power BI**
@@ -64,4 +64,3 @@ I'm a **3rd-year B.Tech Computer Science student** at SRM Institute of Science a
 ---
 
 > "Strive to build solutions that make an impact."
-
