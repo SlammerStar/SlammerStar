@@ -80,7 +80,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pratham-nigam/"><img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/iamprathxm17/"><img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://skillicons.dev/icons?i=devto" height="50" alt="Portfolio" /></a>
   <a href="mailto:nigampratham2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email" /></a>
 </p>
 
