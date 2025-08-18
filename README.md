@@ -78,12 +78,6 @@
 
 ---
 
-### [🧾 AI Resume Analyzer](https://github.com/SlammerStar/AI-Resume-Analyzer)  
-- Analyzes resumes & matches job requirements  
-- Uses **NLP, ML & Streamlit**  
-
----
-
 ### [🚗 Car Model Prediction](https://github.com/SlammerStar/car-model-prediction)  
 - Predicts car prices & models using **ML regression models**  
 - Hackathon project  
