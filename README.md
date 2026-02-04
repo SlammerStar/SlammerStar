@@ -77,9 +77,10 @@
 
 ---
 
-### [💊 Healthcare Chatbot](https://github.com/SlammerStar/Healthcare-Chatbot)  
-- Predicts diseases using **Decision Trees & SVM**  
-- Interactive **Tkinter GUI**  
+### [👁️ Scene Description System](https://github.com/SlammerStar/scene-description)  
+- Real-time object detection and scene narration from video streams
+- Designed to assist visually impaired users using AI-based scene understanding
+- Built using Python, Computer Vision & Deep Learning models 
 
 ---
 
@@ -92,6 +93,9 @@
 ## 📅 Recent GitHub Activity  
 
 <!--START_SECTION:activity-->
+
+
+
 <!--END_SECTION:activity-->
 
 ---
