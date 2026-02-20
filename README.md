@@ -71,6 +71,15 @@
 
 ## 🚀 Featured Projects  
 
+
+### [🤖 Anuga – AI-Powered Smart Assistant App](https://github.com/SlammerStar/Anuga)  
+- Full-stack AI mobile application with voice assistant capabilities  
+- Features Digital Dukaan, Skill Center & real-time Firebase integration  
+- Built using **React Native, TypeScript, Firebase & Google Cloud APIs**  
+- 🎥 [Live Demo](https://youtu.be/MwKFB5C8vbg)
+
+---
+
 ### [🔊 Domain-Specific Speech Translation](https://github.com/SlammerStar/Domain-Specified-Speech-Translation)  
 - Speech translation for **domain-specific vocabularies**  
 - Built using **Python, NLP, Deep Learning**  
