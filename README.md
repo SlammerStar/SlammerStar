@@ -1,17 +1,15 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pratham%20Nigam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Typing SVG — reliable, no broken image issues -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Pratham+Nigam+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+AI+that+matters+%F0%9F%9A%80;Lifelong+learner%2C+forever+curious+%F0%9F%8C%9F" alt="Typing SVG" />
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+that+matters+%F0%9F%A4%96;Crafting+full-stack+experiences+%F0%9F%92%BB;Turning+data+into+decisions+%F0%9F%93%8A;Lifelong+learner+%2C+forever+curious+%F0%9F%8C%9F" alt="Typing SVG" />
-
-<br/>
+<br/><br/>
 
 <!-- Profile Views & Followers -->
 <a href="https://github.com/SlammerStar">
   <img src="https://komarev.com/ghpvc/?username=SlammerStar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
 </a>
+&nbsp;
 <a href="https://github.com/SlammerStar?tab=followers">
   <img src="https://img.shields.io/github/followers/SlammerStar?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
 </a>
@@ -22,27 +20,33 @@
 
 ## ◈ About Me
 
-```python
-class PrathamNigam:
-    def __init__(self):
-        self.name        = "Pratham Nigam"
-        self.role        = "Full Stack Developer & AI/ML Enthusiast"
-        self.education   = "B.Tech CSE (Data Science) — 3rd Year"
-        self.location    = "India 🇮🇳"
-        self.email       = "nigampratham2005@gmail.com"
+> **`pratham@universe:~$`** &nbsp; *(terminal session active)*
 
-    @property
-    def currently(self):
-        return [
-            "🌐 Building Full-Stack Apps (MERN + Cloud)",
-            "🤖 Developing AI & ML Solutions for real-world problems",
-            "📊 Exploring Data Analytics & Power BI",
-            "🏆 Grinding DSA & Competitive Programming",
-        ]
+```bash
+pratham@universe:~$ whoami
+┌──────────────────────────────────────────────────────┐
+│  👤  Name       →  Pratham Nigam                     │
+│  🎓  Education  →  B.Tech CSE (Data Science), Yr 3   │
+│  📍  Location   →  India 🇮🇳                          │
+│  📬  Email      →  nigampratham2005@gmail.com         │
+└──────────────────────────────────────────────────────┘
 
-    @property
-    def mantra(self):
-        return "Strive not just to learn, but to CREATE."
+pratham@universe:~$ cat roles.txt
+  ● Full Stack Developer      💻
+  ● AI & ML Enthusiast        🤖
+  ● Data Science Explorer     📊
+  ● Competitive Programmer    🏆
+
+pratham@universe:~$ cat currently_building.txt
+  [1] 🌐  Full-Stack Apps with MERN + Cloud
+  [2] 🤖  AI & ML Solutions for real-world problems
+  [3] 📊  Data Analytics dashboards & Power BI
+  [4] 🏆  DSA & Competitive Programming skills
+
+pratham@universe:~$ echo $MANTRA
+  → "Strive not just to learn, but to CREATE."
+
+pratham@universe:~$ █
 ```
 
 ---
@@ -140,11 +144,24 @@ class PrathamNigam:
 
 ---
 
+## ◈ LeetCode Stats
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Pratham__Nigam-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pratham_Nigam/)
+
+<img src="https://leetcard.jacoblin.cool/Pratham_Nigam?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
+
+</div>
+
+---
+
 ## ◈ Connect with Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-nigam/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pratham_Nigam/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamprathxm17/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nigampratham2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SlammerStar)
@@ -157,6 +174,6 @@ class PrathamNigam:
 
 *"Strive not just to learn, but to create — technology becomes powerful when it solves real problems."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+![footer](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+%F0%9F%92%9C+%7C+Let%27s+build+something+amazing+together!)
 
 </div>
