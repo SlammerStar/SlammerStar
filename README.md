@@ -28,7 +28,7 @@ pratham@universe:~$ whoami
 │  👤  Name       →  Pratham Nigam                     │
 │  🎓  Education  →  B.Tech CSE (Data Science), Yr 3   │
 │  📍  Location   →  India 🇮🇳                          │
-│  📬  Email      →  nigampratham2005@gmail.com         │
+│  📬  Email      →  nigampratham2005@gmail.com        │
 └──────────────────────────────────────────────────────┘
 
 pratham@universe:~$ cat roles.txt
