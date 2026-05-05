@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Typing SVG — reliable, no broken image issues -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Pratham+Nigam+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+AI+that+matters+%F0%9F%9A%80;Lifelong+learner%2C+forever+curious+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PRATHAM%20NIGAM" alt="Header" />
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI+that+solves+real+problems+%F0%9F%9A%80;Full+Stack+%2B+ML+%2B+Data+Science+%F0%9F%A4%96;3rd+Year+B.Tech+CSE+%7C+Data+Science+%F0%9F%8E%93;Turning+data+into+decisions+%F0%9F%92%A1;Open+to+collaborations+%26+opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 
-<!-- Profile Views & Followers -->
+<br/>
+
 <a href="https://github.com/SlammerStar">
   <img src="https://komarev.com/ghpvc/?username=SlammerStar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
 </a>
@@ -13,8 +13,14 @@
 <a href="https://github.com/SlammerStar?tab=followers">
   <img src="https://img.shields.io/github/followers/SlammerStar?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-ML%20%26%20Full%20Stack-a78bfa?style=for-the-badge&labelColor=1a1a2e" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -24,23 +30,23 @@
 
 ```bash
 pratham@universe:~$ whoami
-┌──────────────────────────────────────────────────────┐
-│  👤  Name       →  Pratham Nigam                     │
-│  🎓  Education  →  B.Tech CSE (Data Science), Yr 3   │
-│  📍  Location   →  India 🇮🇳                          │
-│  📬  Email      →  nigampratham2005@gmail.com        │
-└──────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  👤  Name         →  Pratham Nigam                           │
+│  🎓  Education    →  B.Tech CSE (Data Science), Year 3       │
+│  📍  Location     →  India 🇮🇳                                │
+│  📬  Email        →  nigampratham2005@gmail.com              │
+└──────────────────────────────────────────────────────────────┘
 
 pratham@universe:~$ cat roles.txt
-  ● Full Stack Developer      💻
-  ● AI & ML Enthusiast        🤖
-  ● Data Science Explorer     📊
-  ● Competitive Programmer    🏆
+  ● Full Stack Developer        💻  (React · Node · MERN)
+  ● ML & AI Engineer            🤖  (scikit-learn · XGBoost · SHAP)
+  ● Data Science Explorer       📊  (Pandas · Power BI · SQL)
+  ● Competitive Programmer      🏆  (DSA · LeetCode · Java)
 
 pratham@universe:~$ cat currently_building.txt
-  [1] 🌐  Full-Stack Apps with MERN + Cloud
-  [2] 🤖  AI & ML Solutions for real-world problems
-  [3] 📊  Data Analytics dashboards & Power BI
+  [1] 📉  Cling — Production ML Churn Prediction Platform (LIVE on Vercel)
+  [2] 🎬  Anuga — Full-stack AI mobile app with voice assistant, Digital Dukaan & Skill Center (Demo version available)
+  [3] 🤖  AI Solutions for real-world problems
   [4] 🏆  DSA & Competitive Programming skills
 
 pratham@universe:~$ echo $MANTRA
@@ -48,6 +54,75 @@ pratham@universe:~$ echo $MANTRA
 
 pratham@universe:~$ █
 ```
+
+---
+
+## ◈ Spotlight Project
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   📉  CLING — Customer Churn Intelligence Platform                   ║
+║                                                                      ║
+║   A production-grade ML web app that predicts which customers        ║
+║   are about to leave — before they do.                               ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+![Python](https://img.shields.io/badge/Python-3.11-3670A0?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Stacking_Ensemble-FF6600?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-7c3aed?style=flat-square)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=flat-square&logo=vercel)
+![Supabase](https://img.shields.io/badge/DB-Supabase-3ECF8E?style=flat-square&logo=supabase)
+![ROC-AUC](https://img.shields.io/badge/ROC--AUC-0.87%2B-22c55e?style=flat-square)
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**🧠 ML Pipeline**
+- Stacking Ensemble: XGBoost + Random Forest + Logistic Regression
+- SMOTE oversampling for class imbalance
+- Optuna hyperparameter optimization
+- SHAP values for per-prediction explainability
+- Calibrated probabilities (`CalibratedClassifierCV`)
+- 25 features + 8 engineered features
+
+</td>
+<td width="50%">
+
+**⚡ Tech Stack**
+- **Backend:** Python, Flask → Vercel Serverless Functions
+- **Frontend:** Vanilla JS + Chart.js (Dashboard, Radar, ROC)
+- **Database:** Supabase (PostgreSQL) — prediction history
+- **Auth:** Clerk — user accounts & protected routes
+- **Deploy:** Vercel (CI/CD via GitHub Actions)
+- **Tests:** pytest · 16 test cases
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+| Metric | Logistic Reg | Random Forest | XGBoost | **Stacking ★** |
+|--------|:---:|:---:|:---:|:---:|
+| Accuracy | 64.7% | 68.8% | 66.5% | **71.2%** |
+| F1 Score | 55.3% | 56.6% | 52.0% | **75.4%** |
+| ROC-AUC | 69.3% | 71.9% | 69.5% | **87.1%** |
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SlammerStar/cling-churn-prediction)
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cling-churn-prediction.vercel.app/)
+
+</div>
 
 ---
 
@@ -74,8 +149,10 @@ pratham@universe:~$ █
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -85,14 +162,33 @@ pratham@universe:~$ █
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </details>
+
+---
+
+## ◈ Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 🔍 Description | 🛠 Stack | 🔗 Links |
+|:-----------|:---------------|:---------|:---------|
+| **📉 Cling – Churn Intelligence Platform** `★ FEATURED` | Production ML platform predicting customer churn · Stacking Ensemble (XGBoost+RF+LR) · SHAP explainability · SMOTE · Optuna · ROC-AUC 0.87+ · Supabase DB · Clerk Auth · Deployed on Vercel | Python · XGBoost · SHAP · Flask · Supabase · Vercel | [Repo](https://github.com/SlammerStar/cling-churn-prediction) · [Live](https://cling-churn-prediction.vercel.app/) |
+| **🤖 Anuga – AI Smart Assistant** | Full-stack AI mobile app with voice assistant, Digital Dukaan & Skill Center | React Native · TypeScript · Firebase · Google Cloud | [Repo](https://github.com/SlammerStar/Anuga) · [Demo](https://youtu.be/MwKFB5C8vbg) |
+| **🔊 Domain Speech Translation** | Speech-to-speech translation for domain-specific vocabularies using NLP | Python · NLP · Deep Learning | [Repo](https://github.com/SlammerStar/Domain-Specified-Speech-Translation) |
+| **👁️ Scene Description System** | Real-time AI scene narration for visually impaired — live object detection | Python · CV · Deep Learning | [Repo](https://github.com/SlammerStar/scene-description) |
+| **🎬 Vydora – EdTech Video Platform** | Professional educational video platform with voice search, channel pages, playlists, JWT auth & Google OAuth | React · Node.js · Express · MongoDB · FFmpeg | [Repo](https://github.com/SlammerStar/Vydora) |
+| **🚗 Car Model Prediction** | ML regression model to predict car prices — Hackathon project | Python · Scikit-learn · ML | [Repo](https://github.com/SlammerStar/car-model-prediction) |
+
+</div>
 
 ---
 
@@ -114,33 +210,9 @@ pratham@universe:~$ █
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SlammerStar&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&border_radius=12" width="95%" alt="Activity Graph"/>
 
 </div>
-
----
-
-## ◈ Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 🔍 Description | 🛠 Stack | 🔗 Links |
-|:-----------|:---------------|:---------|:---------|
-| **🎬 Vydora – EdTech Video Platform** `NEW` | Professional educational video platform with voice search, channel pages, playlists, JWT auth & Google OAuth | React · Node.js · Express · MongoDB · FFmpeg | [Repo](https://github.com/SlammerStar/Vydora) |
-| **🤖 Anuga – AI Smart Assistant** | Full-stack AI mobile app with voice assistant, Digital Dukaan & Skill Center | React Native · TypeScript · Firebase · Google Cloud | [Repo](https://github.com/SlammerStar/Anuga) · [Demo](https://youtu.be/MwKFB5C8vbg) |
-| **🔊 Domain Speech Translation** | Speech-to-speech translation for domain-specific vocabularies using NLP | Python · NLP · Deep Learning | [Repo](https://github.com/SlammerStar/Domain-Specified-Speech-Translation) |
-| **👁️ Scene Description System** | Real-time AI scene narration for visually impaired — live object detection | Python · CV · Deep Learning | [Repo](https://github.com/SlammerStar/scene-description) |
-| **🚗 Car Model Prediction** | ML regression model to predict car prices — Hackathon project | Python · Scikit-learn · ML | [Repo](https://github.com/SlammerStar/car-model-prediction) |
-
-</div>
-
----
-
-## ◈ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
@@ -153,6 +225,13 @@ pratham@universe:~$ █
 <img src="https://leetcard.jacoblin.cool/Pratham_Nigam?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
 
 </div>
+
+---
+
+## ◈ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -174,6 +253,10 @@ pratham@universe:~$ █
 
 *"Strive not just to learn, but to create — technology becomes powerful when it solves real problems."*
 
-![footer](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+%F0%9F%92%9C+%7C+Let%27s+build+something+amazing+together!)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+%F0%9F%92%9C+%7C+Let%27s+build+something+amazing+together!" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer" />
 
 </div>
