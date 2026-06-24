@@ -45,9 +45,10 @@ pratham@universe:~$ cat roles.txt
 
 pratham@universe:~$ cat currently_building.txt
   [1] 📉  Cling — Production ML Churn Prediction Platform (LIVE on Vercel)
-  [2] 🎬  Anuga — Full-stack AI mobile app with voice assistant, Digital Dukaan & Skill Center (Demo version available)
-  [3] 🤖  AI Solutions for real-world problems
-  [4] 🏆  DSA & Competitive Programming skills
+  [2] 🚗 DriveIQ — AI Car Valuation Platform (LIVE on Render)
+  [3] 🎬  Anuga — Full-stack AI mobile app with voice assistant, Digital Dukaan & Skill Center (Demo version available)
+  [4] 🤖  AI Solutions for real-world problems
+  [5] 🏆  DSA & Competitive Programming skills
 
 pratham@universe:~$ echo $MANTRA
   → "Strive not just to learn, but to CREATE."
