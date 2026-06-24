@@ -229,10 +229,36 @@ pratham@universe:~$ █
 
 ---
 
-## ◈ Recent Activity
+---
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## ◈ Achievements
+
+<div align="center">
+
+| 🏆 Achievement | 📌 Highlights |
+|:---------------|:---------------|
+| **💻 LeetCode Journey** | Solved **200+ problems** across Easy, Medium and Hard |
+| **🚀 Live Projects** | Successfully deployed multiple applications including **Cling** (Vercel) and **DriveIQ** (Render) |
+| **🤖 AI & ML Engineering** | Building production-grade machine learning systems using XGBoost, SHAP, Optuna and Flask |
+| **☁️ Oracle Certified** | Oracle OCI Data Science Professional Certified |
+| **📊 Google Cloud Certified** | Google Cloud Data Analytics Professional Certificate |
+| **🏅 PwC Launchpad CEDA** | Data Engineering Program 2026 |
+| **⚡ Full Stack Development** | Experience with React, Node.js, Flask, Firebase, Supabase and TypeScript |
+| **🎯 Career Focus** | Open to Software Engineering, AI/ML and Data Science opportunities |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-OCI%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Data%20Analytics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PwC](https://img.shields.io/badge/PwC-Launchpad%20CEDA-FFB81C?style=for-the-badge)
+![Open To Work](https://img.shields.io/badge/Open%20to-SWE%20%7C%20AI%20Roles-22c55e?style=for-the-badge)
+
+</div>
 
 ---
 
