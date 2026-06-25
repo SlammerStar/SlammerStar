@@ -208,7 +208,9 @@ pratham@universe:~$ █
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SlammerStar&theme=tokyonight&no-frame=true&margin-w=12&row=1&column=7" alt="Trophies"/>
+<!--
+<img src="https://github-profile-trophy.vercel.app/?username=SlammerStar&theme=tokyonight&no-frame=true&margin-w=12&row=1&column=7" alt="GitHub Trophies"/>
+-->
 
 <br/><br/>
 
@@ -227,8 +229,6 @@ pratham@universe:~$ █
 <img src="https://leetcard.jacoblin.cool/Pratham_Nigam?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
 
 </div>
-
----
 
 ---
 
