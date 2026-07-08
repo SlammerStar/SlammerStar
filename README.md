@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PRATHAM%20NIGAM" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI+that+solves+real+problems+%F0%9F%9A%80;Full+Stack+%2B+ML+%2B+Data+Science+%F0%9F%A4%96;3rd+Year+B.Tech+CSE+%7C+Data+Science+%F0%9F%8E%93;Turning+data+into+decisions+%F0%9F%92%A1;Open+to+collaborations+%26+opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI+that+solves+real+problems+%F0%9F%9A%80;Full+Stack+%2B+ML+%2B+Data+Science+%F0%9F%A4%96;4th+Year+B.Tech+CSE+%7C+Data+Science+%F0%9F%8E%93;Turning+data+into+decisions+%F0%9F%92%A1;Open+to+collaborations+%26+opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 pratham@universe:~$ whoami
 ┌──────────────────────────────────────────────────────────────┐
 │  👤  Name         →  Pratham Nigam                           │
-│  🎓  Education    →  B.Tech CSE (Data Science), Year 3       │
+│  🎓  Education    →  B.Tech CSE (Data Science), Year 4       │
 │  📍  Location     →  India 🇮🇳                                │
 │  📬  Email        →  nigampratham2005@gmail.com              │
 └──────────────────────────────────────────────────────────────┘
