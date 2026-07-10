@@ -198,9 +198,9 @@ pratham@universe:~$ █
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SlammerStar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" height="170"/>
+<img src="https://github-readme-stats-phi-pearl-71.vercel.app/api?username=SlammerStar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12&cache_seconds=21600" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlammerStar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12" height="170"/>
+<img src="https://github-readme-stats-phi-pearl-71.vercel.app/api/top-langs/?username=SlammerStar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12&cache_seconds=21600" height="170"/>
 
 <br/><br/>
 
