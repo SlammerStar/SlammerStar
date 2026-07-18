@@ -204,7 +204,7 @@ pratham@universe:~$ █
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SlammerStar&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&border_radius=12" height="170"/>
+<img src="https://streak-stats.demolab.com?user=SlammerStar&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&border_radius=12" height="170"/>
 
 <br/><br/>
 
