@@ -198,13 +198,13 @@ pratham@universe:~$ █
 
 <div align="center">
 
-<img src="https://github-readme-stats-phi-pearl-71.vercel.app/api?username=SlammerStar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12&cache_seconds=21600" height="170"/>
+<img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-phi-pearl-71.vercel.app/api/top-langs/?username=SlammerStar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12&cache_seconds=21600" height="170"/>
+<img src="./profile/top-langs.svg" height="170" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SlammerStar&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&border_radius=12" height="170"/>
+<img src="https://streak-stats.demolab.com?user=SlammerStar&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&border_radius=12" height="170" alt="GitHub Streak Stats"/>
 
 <br/><br/>
 
