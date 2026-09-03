@@ -208,15 +208,8 @@ pratham@universe:~$ █
 
 <br/><br/>
 
-<!--
-<img src="https://github-profile-trophy.vercel.app/?username=SlammerStar&theme=tokyonight&no-frame=true&margin-w=12&row=1&column=7" alt="GitHub Trophies"/>
--->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SlammerStar&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&border_radius=12" width="95%" alt="Activity Graph"/>
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/SlammerStar/SlammerStar/output/github-contribution-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+
 </div>
 
 ---
