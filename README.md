@@ -232,7 +232,7 @@ pratham@universe:~$ █
 
 | 🏆 Achievement | 📌 Highlights |
 |:---------------|:---------------|
-| **💻 LeetCode Journey** | Solved **300+ problems** across Easy, Medium and Hard |
+| **💻 LeetCode Journey** | **KNIGHT** Badge, Solved **350+ problems** across Easy, Medium and Hard |
 | **🚀 Live Projects** | Successfully deployed multiple applications including **Cling** (Vercel) and **DriveIQ** (Render) |
 | **🤖 AI & ML Engineering** | Building production-grade machine learning systems using XGBoost, SHAP, Optuna and Flask |
 | **☁️ Oracle Certified** | Oracle OCI Data Science Professional Certified |
