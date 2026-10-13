@@ -247,7 +247,7 @@ pratham@universe:~$ █
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LeetCode-Knight(400%2B%20Solved)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-OCI%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Data%20Analytics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![PwC](https://img.shields.io/badge/PwC-Launchpad%20CEDA-FFB81C?style=for-the-badge)
